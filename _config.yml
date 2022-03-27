@@ -24,7 +24,7 @@ title-icon: code-slash
 # these do not visibility appear on the pages, but used for SEO
 description: "Create a workshop website quick and easy!"
 #####keywords: "workshops, websites, gh-pages, jekyll"
-keywords: "sampelanogat, dick-turpshead, workshop-template-b, jekyll"
+keywords: "sampelanogat, dick-turpshead, dickturpshead, jekyll-me"
 
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
@@ -50,8 +50,8 @@ pub_year: 2022
 # location of code, the full url to your github repository
 #####source-code: https://github.com/evanwill/workshop-template-b
 source-code: https://github.com/DickTurpshead/workshop-template-b
-#######################################
 
+##################################################
 ##########
 # URL VARIABLES [optional!]
 #
