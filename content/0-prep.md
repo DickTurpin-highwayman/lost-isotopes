@@ -4,7 +4,7 @@ nav: Prep
 topics: sampelanogat
 ---
 
-some text
+some text - this should be jaso ...
 
 
 {% include figure.html img="ishmael-jaso.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
