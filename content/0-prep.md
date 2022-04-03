@@ -7,11 +7,11 @@ topics: sampelanogat
 some text - this should be jaso ...
 
 
-{% include figure.html img="ishmael-jaso.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="ishmael-jaso.JPG" alt="intro image here" caption="Library workshop" width="75%" %}
 
 ishmael-jaso.JPG
 
-<img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.jpg" width=320 height=240>
+<img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.JPG" width=320 height=240>
 
 
 <img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.JPG" width=320 height=240>
@@ -31,9 +31,9 @@ ishmael-jaso.JPG
      <td>third col</td>
   </tr>
   <tr>
-    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.jpg" width=320 height=240></td>
-    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso-tasting.jpg" width=320 height=240></td>
-    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso-fridge.jpg" width=320 height=240></td>
+    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.JPG" width=320 height=240></td>
+    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso-tasting.JPG" width=320 height=240></td>
+    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso-fridge.JPG" width=320 height=240></td>
   </tr>
  </table>
 
@@ -52,8 +52,8 @@ ishmael-jaso.JPG
      <td>third col</td>
   </tr>
   <tr>
-    <td>{% include figure.html img="ishmael-jaso.jpg" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
-    <td>{% include figure.html img="ishmael-jaso-tasting.jpg" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
-    <td>{% include figure.html img="ishmael-jaso-fridge.jpg" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso.JPG" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso-tasting.JPG" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso-fridge.JPG" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
   </tr>
  </table>
