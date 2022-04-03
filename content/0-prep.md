@@ -5,6 +5,25 @@ topics: sampelanogat
 ---
 
 some text
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+    <td>First col</td>
+     <td>second col</td>
+     <td>third col</td>
+  </tr>
+  <tr>
+    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.jpg" width=320 height=240></td>
+    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso-tasting.jpg" width=320 height=240></td>
+    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso-fridge.jpg" width=320 height=240></td>
+  </tr>
+ </table>
 
 
 <br/>
