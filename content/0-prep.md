@@ -21,7 +21,7 @@ some text
      <td>third col</td>
   </tr>
   <tr>
-    <td>{% include figure.html img="ishmael-jaso.jpg" alt="jaso doing ???" caption="jaso doing ???" width="75%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso.jpg" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
     <td>{% include figure.html img="ishmael-jaso-tasting.jpg" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
     <td>{% include figure.html img="ishmael-jaso-fridge.jpg" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
   </tr>
