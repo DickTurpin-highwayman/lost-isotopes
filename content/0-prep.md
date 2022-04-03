@@ -9,6 +9,13 @@ some text - this should be jaso ...
 
 {% include figure.html img="ishmael-jaso.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
+ishmael-jaso.JPG
+
+<img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.jpg" width=320 height=240>
+
+
+<img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.JPG" width=320 height=240>
+
 
 <br/>
 <br/>
