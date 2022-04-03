@@ -7,7 +7,7 @@ topics: sampelanogat
 some text
 
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="ishmael-jaso.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 
 <br/>
