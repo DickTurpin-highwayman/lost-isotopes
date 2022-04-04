@@ -9,14 +9,9 @@ some info ...
 
 <br/>
 <br/>
-<br/>
-<br/>
 
+{% include figure.html img="jaso-awards-night.jpg" alt="intro image here" caption="jaso awards night.jpg" width="50%" %}
 
-{% include figure.html img="jaso-awards-night.jpg" alt="intro image here" caption="jaso awards night.jpg" width="75%" %}
-
-<br/>
-<br/>
 <br/>
 <br/>
 
