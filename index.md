@@ -3,22 +3,17 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template! Dick Turpshead
+# Jasmine
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+dome info ...
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+<br/>
+<br/>
+<br/>
+<br/>
 
-*Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+{% include figure.html img="jaso-awards-night.jpg" alt="intro image here" caption="jaso awards night.jpg" width="75%" %}
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
-
-{% include toc.html %}
-
-------
 
 {% include template/credits.html %}
