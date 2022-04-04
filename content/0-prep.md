@@ -52,6 +52,6 @@ some text about jasmine
   </tr>
   <tr>
     <td>{% include figure.html img="jaso-balaclava-1.jpg" alt="jaso doing ???" caption="jaso balaclava friends.jpg" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-balaclava-1.jpg" alt="jaso doing ???" caption="jaso balaclava" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-balaclava-2.jpg" alt="jaso doing ???" caption="jaso balaclava" width="100%" %}</td>
   </tr>
  </table>
