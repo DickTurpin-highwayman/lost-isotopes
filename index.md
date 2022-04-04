@@ -5,7 +5,7 @@ layout: default
 
 # Jasmine
 
-dome info ...
+some info ...
 
 <br/>
 <br/>
@@ -15,5 +15,9 @@ dome info ...
 
 {% include figure.html img="jaso-awards-night.jpg" alt="intro image here" caption="jaso awards night.jpg" width="75%" %}
 
+<br/>
+<br/>
+<br/>
+<br/>
 
-{% include template/credits.html %}
+some more text
