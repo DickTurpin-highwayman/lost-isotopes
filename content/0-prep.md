@@ -1,42 +1,10 @@
 ---
-title: Workshop Prep
+title: the preschool years
 nav: Prep
 topics: sampelanogat
 ---
 
-some text - this should be jaso ...
-
-
-{% include figure.html img="ishmael-jaso.JPG" alt="intro image here" caption="Library workshop" width="75%" %}
-
-ishmael-jaso.JPG
-
-<img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.JPG" width=320 height=240>
-
-
-<img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.JPG" width=320 height=240>
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-#### Flutter App Screenshots
-
-<table>
-  <tr>
-    <td>First col</td>
-     <td>second col</td>
-     <td>third col</td>
-  </tr>
-  <tr>
-    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso.JPG" width=320 height=240></td>
-    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso-tasting.JPG" width=320 height=240></td>
-    <td><img src="https://dickturpshead.github.io/sampelanogat/images/ishmael-jaso-fridge.JPG" width=320 height=240></td>
-  </tr>
- </table>
-
+some text about jasmine
 
 <br/>
 <br/>
@@ -47,13 +15,21 @@ ishmael-jaso.JPG
 
 <table>
   <tr>
-    <td>First col</td>
-     <td>second col</td>
-     <td>third col</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
   <tr>
-    <td>{% include figure.html img="ishmael-jaso.JPG" alt="jaso doing ???" caption="jaso doing ???" width="100%" %}</td>
-    <td>{% include figure.html img="ishmael-jaso-tasting.JPG" alt="jaso doing ???" caption="jaso doing ???" width="100%" %}</td>
-    <td>{% include figure.html img="ishmael-jaso-fridge.JPG" alt="jaso doing ???" caption="jaso doing ???" width="100%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso.JPG" alt="jaso doing ???" caption="jaso watching" width="100%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso-tasting.JPG" alt="jaso doing ???" caption="jaso tasting" width="100%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso-fridge.JPG" alt="jaso doing ???" caption="caught!" width="100%" %}</td>
   </tr>
+  <tr>
+    <td>{% include figure.html img="Jaso-at-computer-desk.jpg" alt="jaso doing ???" caption="jaso at computer" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-and-friends.jpg" alt="jaso doing ???" caption="jaso & friends" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-birthday-.jpg" alt="jaso doing ???" caption="happy birthday" width="100%" %}</td>
+  </tr>
+  
+  
+  
  </table>
