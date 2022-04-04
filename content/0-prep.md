@@ -27,9 +27,14 @@ some text about jasmine
   <tr>
     <td>{% include figure.html img="Jaso-at-computer-desk.jpg" alt="jaso doing ???" caption="jaso at computer" width="100%" %}</td>
     <td>{% include figure.html img="jaso-and-friends.jpg" alt="jaso doing ???" caption="jaso & friends" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-birthday-.jpg" alt="jaso doing ???" caption="happy birthday" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-easter.jpg" alt="jaso doing ???" caption="happy easter" width="100%" %}</td>
   </tr>
   
+    <tr>
+    <td>{% include figure.html img="ishmael-bible-dressing.jpg" alt="jaso doing ???" caption="ishmael bible dressing" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-posing.jpg" alt="jaso doing ???" caption="jaso posing" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-birthday-.jpg" alt="jaso doing ???" caption="happy birthday" width="100%" %}</td>
+  </tr>
   
   
  </table>
