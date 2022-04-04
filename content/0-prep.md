@@ -52,8 +52,8 @@ ishmael-jaso.JPG
      <td>third col</td>
   </tr>
   <tr>
-    <td>{% include figure.html img="ishmael-jaso.JPG" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
-    <td>{% include figure.html img="ishmael-jaso-tasting.JPG" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
-    <td>{% include figure.html img="ishmael-jaso-fridge.JPG" alt="jaso doing ???" caption="jaso doing ???" width="50%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso.JPG" alt="jaso doing ???" caption="jaso doing ???" width="100%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso-tasting.JPG" alt="jaso doing ???" caption="jaso doing ???" width="100%" %}</td>
+    <td>{% include figure.html img="ishmael-jaso-fridge.JPG" alt="jaso doing ???" caption="jaso doing ???" width="100%" %}</td>
   </tr>
  </table>
