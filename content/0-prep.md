@@ -33,8 +33,25 @@ some text about jasmine
     <tr>
     <td>{% include figure.html img="ishmael-bible-dressing.jpg" alt="jaso doing ???" caption="ishmael bible dressing" width="100%" %}</td>
     <td>{% include figure.html img="jaso-posing.jpg" alt="jaso doing ???" caption="jaso posing" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-birthday-.jpg" alt="jaso doing ???" caption="happy birthday" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-birthday-.jpg" alt="jaso doing ???" caption="happy birthday" width="75%" %}</td>
   </tr>
-  
-  
+ </table>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### Jasmine at Balaclava Preschool
+
+<table>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>{% include figure.html img="jaso-balaclava-1.jpg" alt="jaso doing ???" caption="jaso balaclava friends.jpg" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-balaclava-1.jpg" alt="jaso doing ???" caption="jaso balaclava" width="100%" %}</td>
+  </tr>
  </table>
