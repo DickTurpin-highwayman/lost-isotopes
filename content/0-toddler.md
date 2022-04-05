@@ -8,10 +8,8 @@ some text about jasmine
 
 <br/>
 <br/>
-<br/>
-<br/>
 
-#### Jasmine at Ishmael Rd
+#### Jasmines' early years
 
 <table>
   <tr>
@@ -20,9 +18,9 @@ some text about jasmine
     <td> </td>
   </tr>
   <tr>
-    <td>{% include figure.html img="ishmael-jaso.JPG" alt="jaso doing ???" caption="jaso watching" width="100%" %}</td>
-    <td>{% include figure.html img="ishmael-jaso-tasting.JPG" alt="jaso doing ???" caption="jaso tasting" width="100%" %}</td>
-    <td>{% include figure.html img="ishmael-jaso-fridge.JPG" alt="jaso doing ???" caption="caught!" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-knows-NO-danger.jpg" alt="jaso doing ???" caption="jaso with sparkler.jpg" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-mavara.jpg" alt="jaso doing ???" caption="jaso & mavara" width="100%" %}</td>
+    <td>{% include figure.html img="christmas-02.jpg" alt="jaso doing ???" caption="it's christmas (02)" width="100%" %}</td>
   </tr>
   <tr>
     <td>{% include figure.html img="Jaso-at-computer-desk.jpg" alt="jaso doing ???" caption="jaso at computer" width="100%" %}</td>
