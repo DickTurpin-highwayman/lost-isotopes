@@ -7,7 +7,7 @@ topics: junior years
 <br/>
 <br/>
 
-#### Jasmine at school ...
+#### Jasmine at junior school ...
 
 <table>
   <tr>
