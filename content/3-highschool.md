@@ -17,21 +17,14 @@ topics: highschool years
     <td>{% include figure.html img="Jaso-prom-night.jpg" alt="jaso doing TBA" caption="Jaso prom-night" width="100%" %}</td>
   </tr>
   
-<br/>
-  
-<br/>
-  
-<br/>
-  
-<br/>
-  
-<br/>
-  
-<br/>
-  
-<br/>
-  
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
   
 #### Jasmines ...
 
