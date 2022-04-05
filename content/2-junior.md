@@ -19,13 +19,13 @@ topics: junior years
     <td>{% include figure.html img="jaso-studying.jpg" alt="jaso doing TBA" caption="jaso studying" width="100%" %}</td>
     <td>{% include figure.html img="jaso-reconstruction-head.jpg" alt="jaso doing TBA" caption="jaso reconstruction head" width="100%" %}</td>
     <td>{% include figure.html img="jaso-student-of-the-week.jpg" alt="jaso doing TBA" caption="student of the week" width="100%" %}</td>
-  </tr>
+ </tr>
   
 <br/>
 <br/>
 
 
-#### Jasmines birthday trip on 'Sunlover Crus'
+#### Jasmines birthday trip on Sunlover Crus
 
 <table>
   <tr>
@@ -37,13 +37,16 @@ topics: junior years
     <td>{% include figure.html img="jaso-birthday-cruise-1.jpg" alt="jaso doing TBA" caption="birthday cruise" width="100%" %}</td>
     <td>{% include figure.html img="jaso-birthday-cruise-2.jpg" alt="jaso doing TBA" caption="on the boat" width="100%" %}</td>
     <td>{% include figure.html img="jaso-birthday-cruise-3.jpg" alt="jaso doing TBA" caption="glass bottom underwater viewing boat" width="100%" %}</td>
-  </tr> 
+ </tr> 
   
 <br/>
 <br/> 
+<br/>
+<br/>
+<br/>
+<br/> 
   
-  
-#### Jasmines doing ???
+#### Jasmines birthday trip on 'Sunlover Crus' .
 
 <table>
   <tr>
