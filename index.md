@@ -5,7 +5,7 @@ layout: default
 
 # Jasmine
 
-some info ...
+all that hard work payes off ...
 
 <br/>
 <br/>
@@ -14,5 +14,9 @@ some info ...
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+
 
 some more text ...
