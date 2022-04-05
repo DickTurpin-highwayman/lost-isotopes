@@ -10,9 +10,9 @@ some info ...
 <br/>
 <br/>
 
-{% include figure.html img="jaso-awards-night.jpg" alt="intro image here" caption="jaso awards night.jpg" width="50%" %}
+{% include figure.html img="jaso-david-graduation.jpg" alt="intro image here" caption="jaso & david graduation" width="50%" %}
 
 <br/>
 <br/>
 
-some more text
+some more text ...
