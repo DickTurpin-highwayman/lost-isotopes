@@ -29,9 +29,9 @@ some text about jasmine
   </tr>
   
     <tr>
-    <td>{% include figure.html img="ishmael-bible-dressing.jpg" alt="jaso doing ???" caption="ishmael bible dressing" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-posing.jpg" alt="jaso doing ???" caption="jaso posing" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-birthday-.jpg" alt="jaso doing ???" caption="happy birthday" width="75%" %}</td>
+    <td>{% include figure.html img="jaso-maytown-close-1.jpg.jpg" alt="jaso doing ???" caption="jasmine" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-maytown-close-2.jpg" alt="jaso doing ???" caption="at" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-maytown-close-3.jpg" alt="jaso doing ???" caption="maytown close" width="75%" %}</td>
   </tr>
  </table>
 
