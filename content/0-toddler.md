@@ -40,7 +40,7 @@ some text about jasmine
 <br/>
 <br/>
 
-#### Jasmine at Balaclava Preschool
+#### Jasmines' artwork
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ some text about jasmine
     <td> </td>
   </tr>
   <tr>
-    <td>{% include figure.html img="jaso-balaclava-1.jpg" alt="jaso doing ???" caption="jaso balaclava friends.jpg" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-balaclava-2.jpg" alt="jaso doing ???" caption="jaso balaclava" width="100%" %}</td>
+    <td>{% include figure.html img="daddy-by-jasmine.jpg" alt="jaso doing ???" caption="daddy by jasmine" width="100%" %}</td>
+    <td>{% include figure.html img="jasmines-artwork.jpg" alt="jaso doing ???" caption="jasomines artwork ?!" width="100%" %}</td>
   </tr>
  </table>
