@@ -4,9 +4,6 @@ nav: highschool
 topics: highschool years
 ---
 
-<br/>
-<br/>
-
 #### Jasmines' final school years
 
 <table>
