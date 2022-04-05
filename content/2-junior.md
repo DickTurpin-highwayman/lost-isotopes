@@ -54,7 +54,7 @@ some more text about jasmine ...
     <td> </td>
   </tr>
   <tr>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-birthday-cruise-1.jpg" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-birthday-cruise-2.jpg" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-birthday-cruise-3.jpg" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
   </tr>
