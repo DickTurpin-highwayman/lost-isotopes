@@ -49,7 +49,7 @@ some text about jasmine
     <td> </td>
   </tr>
   <tr>
-    <td>{% include figure.html img="daddy-by-jasmine.jpg" alt="jaso doing ???" caption="daddy by jasmine" width="100%" %}</td>
+    <td>{% include figure.html img="daddy-by-jasmine.jpg" alt="jaso doing ???" caption="daddy by jasmine" width="50%" %}</td>
     <td>{% include figure.html img="jasmines-artwork.jpg" alt="jaso doing ???" caption="jasomines artwork ?!" width="100%" %}</td>
   </tr>
  </table>
