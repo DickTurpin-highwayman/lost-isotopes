@@ -17,6 +17,7 @@ topics: highschool years, prom night
    <td> </td>
    <td> </td>
   </tr>
+</table>
 
 <br/><br/>
 <br/><br/>  
