@@ -4,8 +4,7 @@ nav: junior
 topics: junior years
 ---
 
-<br/>
-<br/>
+<br/><br/>
 
 #### Jasmine at junior school ...
 
@@ -21,9 +20,7 @@ topics: junior years
     <td>{% include figure.html img="jaso-student-of-the-week.jpg" alt="jaso doing TBA" caption="student of the week" width="100%" %}</td>
  </tr>
   
-<br/>
-<br/>
-
+<br/><br/>
 
 #### Jasmines birthday trip on Sunlover Crus
 
@@ -39,12 +36,9 @@ topics: junior years
     <td>{% include figure.html img="jaso-birthday-cruise-3.jpg" alt="jaso doing TBA" caption="glass bottom underwater viewing boat" width="100%" %}</td>
  </tr> 
   
-<br/>
-<br/> 
-<br/>
-<br/>
-<br/>
-<br/> 
+<br/><br/> 
+<br/><br/>
+<br/><br/> 
   
 #### Jasmines birthday trip on 'Sunlover Crus' .
 
