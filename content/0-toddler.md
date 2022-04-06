@@ -7,9 +7,8 @@ topics: early years
 jasmine sorame was born in cairns in 2000
 
 <br/>
-<br/>
 
-#### Jasmines' early years
+#### jasmines' early years
 
 <table>
   <tr>
@@ -36,12 +35,12 @@ jasmine sorame was born in cairns in 2000
 
 <br/><br/>
 
-#### Jasmines' artwork
+#### jasmines' artwork
 
 <table>
   <tr>
     <td>{% include figure.html img="daddy-by-jasmine.jpg" alt="jaso doing ???" caption="daddy by jasmine" width="50%" %}</td>
-    <td>{% include figure.html img="jasmines-artwork.jpg" alt="jaso doing ???" caption="jasomines artwork ?!" width="100%" %}</td>
+    <td>{% include figure.html img="jasmines-artwork.jpg" alt="jaso doing ???" caption="jasmines artwork ?!" width="100%" %}</td>
   </tr>
   <tr>
     <td>more to come...</td>
