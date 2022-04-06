@@ -4,7 +4,7 @@ nav: junior
 topics: junior years
 ---
 
-#### Jasmine at junior school ...
+#### jasmine at junior school ...
 
 <table>
   <tr>
@@ -21,7 +21,7 @@ topics: junior years
 
 <br/><br/>
 
-#### Jasmines birthday trip on 'Sunlover Crus'
+#### jasmines birthday trip on 'Sunlover Crus'
 
 <table>
   <tr>
@@ -36,14 +36,10 @@ topics: junior years
 <br/><br/>
 
   
-#### Jasmines ...'
+#### jasmines ...'
 
 <table>
   <tr>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
- <tr>
    <td>more to come...</td>
    <td></td>
    <td></td>
