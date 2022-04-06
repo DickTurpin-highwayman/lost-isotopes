@@ -34,8 +34,7 @@ topics: junior years
 <br/><br/> 
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
+
   
 #### Jasmines ...
 
@@ -45,8 +44,8 @@ topics: junior years
     <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
     <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
  <tr>
-   <td>more to come</td>
-   <td> </td>
-   <td> </td>
+   <td>more to come...</td>
+   <td></td>
+   <td></td>
  </tr>
 </table>
