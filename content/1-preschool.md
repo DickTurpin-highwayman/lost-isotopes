@@ -6,8 +6,6 @@ topics: early years
 
 jasmine went to balaclava preschool ...
 
-<br/><br/>
-
 #### jasmine at ishmael rd
 
 <table>
@@ -33,7 +31,6 @@ jasmine went to balaclava preschool ...
   </tr>
 </table>
 
-<br/><br/>
 <br/><br/>
 
 #### jasmine at balaclava preschool
