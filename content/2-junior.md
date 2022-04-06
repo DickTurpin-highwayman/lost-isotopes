@@ -4,8 +4,6 @@ nav: junior
 topics: junior years
 ---
 
-<br/><br/>
-
 #### Jasmine at junior school ...
 
 <table>
@@ -40,7 +38,7 @@ topics: junior years
 <br/><br/>
 <br/><br/> 
   
-#### Jasmines birthday trip on 'Sunlover Crus' .
+#### Jasmines ...
 
 <table>
   <tr>
