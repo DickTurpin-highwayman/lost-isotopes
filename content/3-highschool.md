@@ -18,23 +18,3 @@ topics: highschool years
    <td> </td>
   </tr>
 
-<br/><br/>
-<br/><br/>
-<br/><br/>  
-<br/><br/>
-<br/><br/>  
-<br/><br/>
-<br/><br/> 
- 
-
-<table>
-  <tr>
-    <td>more</td>
-    <td>to</td>
-    <td>come</td>
-  </tr>
-  <tr>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
-    <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
-  </tr>
