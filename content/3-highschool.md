@@ -16,24 +16,20 @@ topics: highschool years
     <td>{% include figure.html img="jaso-maba-awards-night.jpg" alt="jaso doing TBA" caption="jaso & maba awards night" width="100%" %}</td>
     <td>{% include figure.html img="Jaso-prom-night.jpg" alt="jaso doing TBA" caption="Jaso prom-night" width="100%" %}</td>
   </tr>
- 
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+
   
-#### Jasmines ...
+  
+
+  
+
+ 
+ 
 
 <table>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td>more</td>
+    <td>to</td>
+    <td>come</td>
   </tr>
   <tr>
     <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
