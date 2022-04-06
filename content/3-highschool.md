@@ -10,7 +10,7 @@ topics: highschool years, prom night
  
   <tr>
     <td>{% include figure.html img="jaso-maba-awards-night.jpg" alt="jaso doing TBA" caption="jaso & maba awards night" width="100%" %}</td>
-    <td>{% include figure.html img="Jaso-prom-night.jpg" alt="jaso doing TBA" caption="jasmines' prom-night" width="80%" %}</td>
+    <td>{% include figure.html img="Jaso-prom-night.jpg" alt="jaso doing TBA" caption="jasmines' prom-night" width="82%" %}</td>
   </tr>
   <tr>
    <td> </td>
