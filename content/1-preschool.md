@@ -4,12 +4,10 @@ nav: preschool
 topics: early years
 ---
 
-some text about jasmine
+jasmine went to balaclava preschool ...
 
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/>
+<br/><br/>
 
 #### Jasmine at Ishmael Rd
 
