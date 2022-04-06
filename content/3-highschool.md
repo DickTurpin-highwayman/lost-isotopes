@@ -1,7 +1,7 @@
 ---
-title: the junior school years
+title: the highschool school years
 nav: highschool
-topics: highschool years
+topics: highschool years, prom night
 ---
 
 #### Jasmines' final school years
@@ -18,3 +18,8 @@ topics: highschool years
    <td> </td>
   </tr>
 
+<br/><br/>
+<br/><br/>  
+<br/><br/>
+ 
+ more to come ...
