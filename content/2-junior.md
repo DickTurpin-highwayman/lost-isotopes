@@ -17,10 +17,11 @@ topics: junior years
     <td>{% include figure.html img="jaso-reconstruction-head.jpg" alt="jaso doing TBA" caption="jaso reconstruction head" width="100%" %}</td>
     <td>{% include figure.html img="jaso-student-of-the-week.jpg" alt="jaso doing TBA" caption="student of the week" width="100%" %}</td>
  </tr>
-  
+</table>
+
 <br/><br/>
 
-#### Jasmines birthday trip on Sunlover Crus
+#### Jasmines birthday trip on 'Sunlover Crus'
 
 <table>
   <tr>
@@ -32,7 +33,9 @@ topics: junior years
 
 <br/><br/> 
 <br/><br/>
-<br/><br/> 
+<br/><br/>
+<br/><br/>
+<br/><br/>
   
 #### Jasmines ...
 
@@ -42,7 +45,7 @@ topics: junior years
     <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
     <td>{% include figure.html img="TBA" alt="jaso doing TBA" caption="TBA" width="100%" %}</td>
  <tr>
-   <td> </td>
+   <td>more to come</td>
    <td> </td>
    <td> </td>
  </tr>
