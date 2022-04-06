@@ -44,7 +44,7 @@ jasmine sorame was born in cairns in 2000
     <td>{% include figure.html img="jasmines-artwork.jpg" alt="jaso doing ???" caption="jasomines artwork ?!" width="100%" %}</td>
   </tr>
   <tr>
-    <td>more</td>
-    <td>to come</td>
+    <td>more to come...</td>
+    <td></td>
   </tr>
 </table>
