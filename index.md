@@ -5,10 +5,7 @@ layout: default
 
 # Jasmine
 
-all that hard work payes off ...
-
-<br/>
-<br/>
+& all that hard work payes off ...
 
 {% include figure.html img="jaso-david-graduation.jpg" alt="intro image here" caption="jaso & david graduation" width="50%" %}
 
