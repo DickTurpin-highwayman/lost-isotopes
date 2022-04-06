@@ -7,7 +7,6 @@ topics: early years
 jasmine went to balaclava preschool ...
 
 <br/><br/>
-<br/><br/>
 
 #### Jasmine at Ishmael Rd
 
@@ -27,29 +26,26 @@ jasmine went to balaclava preschool ...
     <td>{% include figure.html img="jaso-and-friends.jpg" alt="jaso doing ???" caption="jaso & friends" width="100%" %}</td>
     <td>{% include figure.html img="jaso-easter.jpg" alt="jaso doing ???" caption="happy easter" width="100%" %}</td>
   </tr>
-  
-    <tr>
-    <td>{% include figure.html img="ishmael-bible-dressing.jpg" alt="jaso doing ???" caption="ishmael bible dressing" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-posing.jpg" alt="jaso doing ???" caption="jaso posing" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-birthday-.jpg" alt="jaso doing ???" caption="happy birthday" width="75%" %}</td>
+  <tr>
+   <td>{% include figure.html img="ishmael-bible-dressing.jpg" alt="jaso doing ???" caption="ishmael bible dressing" width="100%" %}</td>
+   <td>{% include figure.html img="jaso-posing.jpg" alt="jaso doing ???" caption="jaso posing" width="100%" %}</td>
+   <td>{% include figure.html img="jaso-birthday-.jpg" alt="jaso doing ???" caption="happy birthday" width="75%" %}</td>
   </tr>
- </table>
+</table>
 
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/>
+<br/><br/>
 
 #### Jasmine at Balaclava Preschool
 
 <table>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
     <td>{% include figure.html img="jaso-balaclava-1.jpg" alt="jaso doing ???" caption="jaso balaclava friends.jpg" width="100%" %}</td>
     <td>{% include figure.html img="jaso-balaclava-2.jpg" alt="jaso doing ???" caption="jaso balaclava" width="100%" %}</td>
   </tr>
- </table>
+  <tr>
+    <td>more to come ...</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
