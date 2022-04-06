@@ -15,7 +15,7 @@ topics: junior years
   <tr>
     <td>{% include figure.html img="jaso-studying.jpg" alt="jaso doing TBA" caption="jaso studying" width="200%" %}</td>
     <td>{% include figure.html img="jaso-reconstruction-head.jpg" alt="jaso doing TBA" caption="jaso reconstruction head" width="100%" %}</td>
-    <td>{% include figure.html img="jaso-student-of-the-week.jpg" alt="jaso doing TBA" caption="student of the week" width="100%" %}</td>
+    <td>{% include figure.html img="jaso-student-of-the-week.jpg" alt="jaso doing TBA" caption="student of the week" width="75%" %}</td>
  </tr>
 </table>
 
