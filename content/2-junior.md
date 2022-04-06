@@ -19,6 +19,10 @@ topics: junior years
  </tr>
 </table>
 
+{::comment}
+comment text: note the width=200% (1st picture) doesnt work
+{:/comment}
+
 <br/><br/>
 
 #### jasmines birthday trip on 'Sunlover Crus'
