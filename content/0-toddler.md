@@ -45,7 +45,6 @@ jasmine sorame was born in cairns in 2000
   </tr>
   <tr>
     <td>more</td>
-    <td>to</td>
-    <td>come</td>
+    <td>to come</td>
   </tr>
 </table>
