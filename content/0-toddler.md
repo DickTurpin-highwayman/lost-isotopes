@@ -4,7 +4,7 @@ nav: toddler
 topics: early years
 ---
 
-some text about jasmine
+jasmine sorame was born in cairns in 2000
 
 <br/>
 <br/>
@@ -27,28 +27,25 @@ some text about jasmine
     <td>{% include figure.html img="enter-the-toddle-2.jpg" alt="jaso doing ???" caption="over" width="100%" %}</td>
     <td>{% include figure.html img="enter-the-toddle-3.jpg" alt="jaso doing ???" caption="bruce lee" width="100%" %}</td>
   </tr>
-  
-    <tr>
+  <tr>
     <td>{% include figure.html img="jaso-maytown-close-1.jpg" alt="jaso doing ???" caption="jasmine" width="100%" %}</td>
     <td>{% include figure.html img="jaso-maytown-close-2.jpg" alt="jaso doing ???" caption="at" width="100%" %}</td>
     <td>{% include figure.html img="jaso-maytown-close-3.jpg" alt="jaso doing ???" caption="maytown close" width="75%" %}</td>
   </tr>
  </table>
 
-<br/>
-<br/>
-<br/>
+<br/><br/>
 
 #### Jasmines' artwork
 
 <table>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
     <td>{% include figure.html img="daddy-by-jasmine.jpg" alt="jaso doing ???" caption="daddy by jasmine" width="50%" %}</td>
     <td>{% include figure.html img="jasmines-artwork.jpg" alt="jaso doing ???" caption="jasomines artwork ?!" width="100%" %}</td>
   </tr>
- </table>
+  <tr>
+    <td>more</td>
+    <td>to</td>
+    <td>come</td>
+  </tr>
+</table>
