@@ -4,7 +4,7 @@
 # a Jekyll template for a simple workshop website
 # https://github.com/evanwill/workshop-template-b
 #
-#########
+
 
 #######
 # SITE SETTINGS
@@ -17,13 +17,16 @@ title: sampelanogat
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+title-icon: home-screen
+# was: code-slash
+
 
 
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
+# was: description: "Create a workshop website quick and easy!"
 description: "Create a workshop website quick and easy!"
-#####keywords: "workshops, websites, gh-pages, jekyll"
+##### keywords: "workshops, websites, gh-pages, jekyll"
 keywords: "sampelanogat, dick-turpshead, dickturpshead, jekyll-me"
 
 # featured-image is added to metadata tags for social media sharing
@@ -35,20 +38,20 @@ featured-image: "/images/jaso-closeup.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-#####author: evan will
+##### author: evan will
 author: dick turpshead
 
 
 # your github username for link [optional]
-#####github_username: evanwill
+##### github_username: evanwill
 github_username: dickturpshead
 
 # year or date published
-######pub_year: 2021
+###### pub_year: 2021
 pub_year: 2022
 
 # location of code, the full url to your github repository
-#####source-code: https://github.com/evanwill/workshop-template-b
+##### source-code: https://github.com/evanwill/workshop-template-b
 source-code: https://github.com/DickTurpshead/sampelanogat
 
 ##################################################
