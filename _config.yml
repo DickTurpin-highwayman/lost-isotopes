@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: sampelanogat
+title: try2
 
 
 # title-icon appears in the header to give some pizazz (leave blank for none)
@@ -18,20 +18,19 @@ title: sampelanogat
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: emoji-wink
-# was: code-slash
+
 
 
 
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 # was: description: "Create a workshop website quick and easy!"
-description: "Create a workshop website quick and easy!"
-##### keywords: "workshops, websites, gh-pages, jekyll"
-keywords: "sampelanogat, dick-turpshead, dickturpshead, jekyll-me"
+description: "lost isotopes in PNG - never reported"
+keywords: "sampelanogat, lost isotopes, dickturpin-highwayman, iridium 192"
 
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
-featured-image: "/images/jaso-closeup.jpg"
+featured-image: "/images/d-by-j.jpg"
 
 
 # add search box to footer? true/false
@@ -39,20 +38,19 @@ search: true
 
 # author settings for cc-by, appears in the footer and credits
 ##### author: evan will
-author: dick turpshead
+author: dick turpin
 
 
 # your github username for link [optional]
 ##### github_username: evanwill
-github_username: dickturpshead
+github_username: dickturpin-highwayman
 
 # year or date published
-###### pub_year: 2021
 pub_year: 2022
 
 # location of code, the full url to your github repository
 ##### source-code: https://github.com/evanwill/workshop-template-b
-source-code: https://github.com/DickTurpshead/sampelanogat
+source-code: https://github.com/DickTurpin-highwayman/try2
 
 ##################################################
 ##########
