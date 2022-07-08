@@ -2,10 +2,10 @@
 title: Home
 layout: default
 ---
-# 2 Isotopes of iridium 192 were lost in Port Moresby
-# capitol city of Papua New Guinea – in 1999
+## 2 Isotopes of iridium 192 were lost in Port Moresby
+### capitol city of Papua New Guinea – in 1999
 
-They were recovered by police – a after a `shootout`
+They were recovered by police – a after a `shootout` `workshop-template-b`
 
 The loss of the dangerous isotopes was never reported to the radioactive-sources authorities !
 
