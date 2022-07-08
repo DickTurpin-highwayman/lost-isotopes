@@ -8,7 +8,7 @@ layout: default
 
 # The loss of the dangerous isotopes was never reported to the authorities !
 
-# The police may well have been unaware of the seriousness of the situation at the time of their recovery
+# The police were unaware of the seriousness of the situation at the time of their recovery
 
 
 {% include figure.html img="jaso-david-graduation.jpg" alt="intro image here" caption="jasmine & david at jasmines'graduation" width="50%" %}
