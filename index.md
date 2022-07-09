@@ -21,7 +21,7 @@ The dangerous isotopes are continually emitting radiation, even when contained i
 
 There have been many instances of people taking the radioactive source from the camera -- sometimes totally unaware of the lethal potential of this pill-sized death-trap attached to a small chain. Many of these people -- along with the people they encountered or were with later -- received high doses of radiation which made them very sick or caused death
 
-[some website references]
+[some website references](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1042_web.pdf)
 
 ~~~
 3.2.7.  Lost radiography source, Morocco, 1984
