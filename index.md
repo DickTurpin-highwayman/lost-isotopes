@@ -13,7 +13,7 @@ The police seem to have been deliberately left unaware of the seriousness of the
 
 
 {% include figure.html img="isotope-3c.jpg" alt="isotope image" caption="isotope camera containing iridium 192" width="50%" %}
-The camera is the size of a large handbag but can weigh up to 30kg -- not easy to lose you’d think
+The camera is the size of a large handbag but can weigh up to 30kg due to the heavy radiation shielding of lead & depleted uranium -- not easy to lose you’d think
 
 2 of them were lost because they were stored in the boot of a car instead of the legally required safe storage facility. The car was stolen from the carpark of the company office & accommodation unit in an apartment block in Airvos Avenue
 
