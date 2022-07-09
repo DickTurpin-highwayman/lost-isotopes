@@ -3,9 +3,9 @@ title: Home
 layout: default
 ---
 ## 2 Isotopes of iridium 192 were lost in Port Moresby
-### capitol city of Papua New Guinea – in 1999
+#### capitol city of Papua New Guinea – in 1999
 
-They were recovered by police – a after a `shootout` `workshop-template-b`
+They were recovered by police – a after a **shootout !**
 
 The loss of the dangerous isotopes was never reported to the radioactive-sources authorities !
 
@@ -20,7 +20,7 @@ The police were deliberately left unaware of the seriousness of the situation at
 1. Have a [GitHub](https://github.com) account.
 2. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
 {% endcapture %}
-{% include card.html text=text header="Setup Overview" %}
+{% include card.html text=text header="Section Name" %}
 
 -------------
 
