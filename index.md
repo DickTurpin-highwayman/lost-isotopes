@@ -27,12 +27,12 @@ There have been many instances of people taking the radioactive source from the 
 3.2.7.  Lost radiography source, Morocco, 1984
 In this serious accident, eight members of the public died from overexposure to 
 radiation from a radiography source. A 1.1 TBq (30 Ci) 192Ir source became 
-disconnected from its … shielded container ... a passer-by picked up the tiny 
+disconnected from its ... shielded container ... a passer-by picked up the tiny 
 metal cylinder and took it home ... and a total of 8 persons (the passer-by, 
 members of his family and some relatives) died; the clinical diagnosis was 
 'lung haemorrhages'. It was initially assumed that the deaths were the result 
 of poisoning. Only after the last family member had died was it suspected that 
-the deaths might have been caused by radiation…
+the deaths might have been caused by radiation...
 This is a classic example of a radiography accident and of the consequences 
 that can ensue when no radiation surveys are performed to ensure that a source 
 has returned to the fully shielded position.
