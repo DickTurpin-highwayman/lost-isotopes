@@ -21,7 +21,10 @@ The dangerous isotopes are continually emitting radiation, even when contained i
 
 There have been many instances of people taking the radioactive source from the camera -- sometimes totally unaware of the lethal potential of this pill-sized death-trap attached to a small chain. Many of these people -- along with the people they encountered or were with later -- received high doses of radiation which made them very sick or caused death
 
-[some website references](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1042_web.pdf)
+An example of this is an incident that happened in Morocco where 8 members of the public died when a source was removed from the isotope shielding camera. An abridged excerpt is taken from an IAEA (INTERNATIONAL ATOMIC ENERGY AGENCY) report -- from about the same time as the incident in PNG -- & is referenced below
+
+
+[www-pub.iaea.org/MTCD/Publications/PDF/Pub1042_web.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1042_web.pdf)
 
 ~~~
 3.2.7.  Lost radiography source, Morocco, 1984
@@ -38,7 +41,13 @@ that can ensue when no radiation surveys are performed to ensure that a source
 has returned to the fully shielded position.
 ~~~
 
+&nbsp;
+&nbsp;
+&nbsp;
 
+#### COMPENSATION 
+ 
+There is a real possibility that some of the police officers (or the raskols themselves), who were involved in this incident, were unaware of the nature of the contents of the small toolbox sized devices & have since developed unexplainable sicknesses or even died as a direct result. If so, they may be entitled to compensation payouts from this substandard NDT company. This may also apply to people living close to their office in the Airvos Avenue apartment block in Port Moresby.
 
 ---------------
 
