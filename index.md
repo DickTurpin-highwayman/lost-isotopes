@@ -13,7 +13,9 @@ The police seem to have been deliberately left unaware of the seriousness of the
 
 
 {% include figure.html img="isotope-3c.jpg" alt="isotope image" caption="isotope camera containing iridium 192" width="50%" %}
-The camera is the size of a large handbag but can weigh up to 30kg due to the heavy radiation shielding of lead & depleted uranium -- not easy to lose you’d think
+These radioactive sources are used to take x-rays of metal pipelines, structural sections & pressure vessels for a branch of industrial inspection known as NDT (Non-Destructive Testing)
+
+The camera is the size of a large handbag but can weigh up to 30kg due to the heavy radiation shielding of lead & depleted uranium -- not easy to lose you’d think. 
 
 2 of them were lost because they were stored in the boot of a car instead of the legally required safe storage facility. The car was stolen from the carpark of the company office & accommodation unit in an apartment block in Airvos Avenue
 
@@ -49,21 +51,19 @@ has returned to the fully shielded position.
  
 There is a real possibility that some of the police officers (or the raskols themselves), who were involved in this incident, were unaware of the nature of the contents of the small toolbox sized devices & have since developed unexplainable sicknesses or even died as a direct result. If so, they may be entitled to compensation payouts from this substandard NDT company. This may also apply to people living close to their office in the Airvos Avenue apartment block in Port Moresby.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 ---------------
 
 {% capture text %}
-1. Have a [GitHub](https://github.com) account.
+1. INTERNATIONAL ATOMIC ENERGY AGENCY [www-pub.iaea.org](https://www-pub.iaea.org)
 2. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
 {% endcapture %}
-{% include card.html text=text header="Section Name" %}
+{% include card.html text=text header="Useful Links" %}
 
 -------------
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 some more text ...
