@@ -23,7 +23,7 @@ The dangerous isotopes are continually emitting radiation, even when contained i
 
 There have been many instances of people taking the radioactive source from the camera -- sometimes totally unaware of the lethal potential of this pill-sized death-trap attached to a small chain. Many of these people -- along with the people they encountered or were with later -- received high doses of radiation which made them very sick or caused death
 
-An example of this is an incident that happened in Morocco where 8 members of the public died when a source was removed from the isotope shielding camera. An abridged excerpt is taken from an IAEA (INTERNATIONAL ATOMIC ENERGY AGENCY) report -- from about the same time as the incident in PNG -- & is referenced below
+An example of this is an incident that happened in Morocco where 8 members of the public died when a source was removed from the isotope shielding camera. An abridged excerpt is taken from an IAEA (INTERNATIONAL ATOMIC ENERGY AGENCY) report -- from a IAEA conference from about the same time as the incident in PNG -- & is referenced below
 
 
 [www-pub.iaea.org/MTCD/Publications/PDF/Pub1042_web.pdf](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1042_web.pdf)
@@ -44,12 +44,16 @@ has returned to the fully shielded position.
 ~~~
 
 &nbsp;
+
+The conference also records its concern regarding the possibility of these radioactive sources being stolen for profit – possibly even used to make ‘dirty-bombs’. This can be found in section: Measures To Prevent Illicit Trafficking In Nuclear And Other Radioactive Materials (pg 71 of the above report). Concerns about poorly controlled sources are also addressed in the IAEA dirty-bomb conference in 2003 (link below) as well as numerous other places
+
+&nbsp;
 &nbsp;
 &nbsp;
 
 #### COMPENSATION 
  
-There is a real possibility that some of the police officers (or the raskols themselves), who were involved in this incident, were unaware of the nature of the contents of the small toolbox sized devices & have since developed unexplainable sicknesses or even died as a direct result. If so, they may be entitled to compensation payouts from this substandard NDT company. This may also apply to people living close to their office in the Airvos Avenue apartment block in Port Moresby.
+There is a real possibility that some of the police officers (or the raskols themselves), who were involved in this incident, were unaware of the nature of the contents of the small toolbox sized devices & have since developed unexplainable sicknesses or even died as a direct result. If so, they may be entitled to compensation payouts from this substandard NDT company. This may also apply to people living close to their office in the Airvos Avenue apartment block in Port Moresby
 
 &nbsp;
 &nbsp;
@@ -59,7 +63,7 @@ There is a real possibility that some of the police officers (or the raskols the
 
 {% capture text %}
 1. INTERNATIONAL ATOMIC ENERGY AGENCY [www-pub.iaea.org](https://www-pub.iaea.org)
-2. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
+2. [IAEA dirty-bomb-conference-2003](https://www.iaea.org/newscenter/news/dirty-bomb-conference-2003)
 {% endcapture %}
 {% include card.html text=text header="Useful Links" %}
 
